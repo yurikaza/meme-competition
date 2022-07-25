@@ -1,0 +1,21 @@
+.home-container {
+	width: 90%;
+	margin:  0 auto;
+}
+
+.home-post {
+	border-radius: 5%;
+    border: solid 1px #000;
+}
+
+.post {
+	width: 60%;
+	margin:  0 auto;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.home-post-top {
+	display: flex;
+	justify-content: space-between;
+}
